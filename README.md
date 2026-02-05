@@ -1,6 +1,4 @@
-### Hola 👋, soy Joaquín
-
-Soy **Desarrollador Backend** y recientemente graduado como **Técnico Universitario en Programación** en la *Universidad Nacional Guillermo Brown (UNaB)*.
+**Desarrollador Backend**, recientemente graduado como **Técnico Universitario en Programación** en la *Universidad Nacional Guillermo Brown (UNaB)*.
 
 Me especializo en **Python** con **Django** y **FastAPI**. Mi objetivo es crear aplicaciones robustas y gestionar el ciclo de vida completo del software, desde la arquitectura hasta el despliegue en distintos entornos.
 
@@ -27,11 +25,6 @@ Me especializo en **Python** con **Django** y **FastAPI**. Mi objetivo es crear 
 #### 🔭 Proyectos Actuales
 
 - **[titulados.online](https://titulados.online)**: Una plataforma para la firma digital y verificación de títulos académicos utilizando la **Blockchain Federal Argentina (BFA)**. Integra Django con nodos blockchain para garantizar la inmutabilidad de los datos.
-
-#### 🌱 Aprendizaje Continuo
-
-- Expandiendo mis conocimientos en arquitectura **Java** y **Spring Boot**.
-- Pipelines avanzados de **CI/CD** con GitHub Actions.
 
 ---
 

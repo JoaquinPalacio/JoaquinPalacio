@@ -45,7 +45,7 @@ Mi objetivo es crear aplicaciones robustas, escalables y gestionar el ciclo de v
 
 ---
 
-### Conectemos
+### Contacto
 
 <div align="left">
   <a href="https://www.linkedin.com/in/joaquin-palacio-feijoo" target="_blank">
@@ -55,6 +55,6 @@ Mi objetivo es crear aplicaciones robustas, escalables y gestionar el ciclo de v
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://joaquinpalacio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Website-black?style=for-the-badge" alt="Portfolio" />
   </a>
 </div>

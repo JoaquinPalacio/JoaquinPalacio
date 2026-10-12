@@ -40,8 +40,8 @@ Mi objetivo es crear aplicaciones robustas, escalables y gestionar el ciclo de v
 ### Proyectos Destacados (Pinned)
 
 - **[titulados.online](https://titulados.online)**: Plataforma para la emisión, firma digital y verificación de títulos académicos utilizando la **Blockchain Federal Argentina (BFA)**. Orquestado con Docker, Celery y Redis para garantizar inmutabilidad y trazabilidad asíncrona. *(Python, Django, Vue.js, PostgreSQL)*.
-- **Trazvent (En Desarrollo)**: Sistema robusto con arquitectura basada en eventos. Centrado en el diseño del backend para la agregación de eventos crudos, control de autenticación seguro y endpoints escalables. *(Java)*.
-- **[RPA AFIP Showcase](https://github.com/tu-usuario/rpa-extraccion-datos-fiscales)**: Bot de extracción ETL que automatiza la descarga masiva y carga de datos fiscales gubernamentales (AFIP/ARCA) a bases de datos relacionales, reduciendo horas de trabajo manual a minutos. *(Python, Selenium, Pandas, MariaDB)*.
+- **[Trazvent (En Desarrollo)](https://github.com/JoaquinPalacio/Trazvent)**: Sistema robusto con arquitectura basada en eventos. Centrado en el diseño del backend para la agregación de eventos crudos, control de autenticación seguro y endpoints escalables. *(Java)*.
+- **[RPA AFIP/ARCA](https://github.com/JoaquinPalacio/RPA-AFIP-ARCA)**: Bot de extracción ETL que automatiza la descarga masiva y carga de datos fiscales gubernamentales (AFIP/ARCA) a bases de datos relacionales, reduciendo horas de trabajo manual a minutos. *(Python, Selenium, Pandas, MariaDB)*.
 
 ---
 
